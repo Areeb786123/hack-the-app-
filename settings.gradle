@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "hack_The _App"
